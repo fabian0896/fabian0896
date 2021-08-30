@@ -1,6 +1,6 @@
 ### Hi there, I'm Fabian David 👋
 
-[![Twitter Follow](https://img.shields.io/linkedin/follow/Fabian David Dueñas?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fabian-david-due%C3%B1as-garcia-48418521b/)
+[![Twitter Follow](https://img.shields.io/badge/Fabian%20David%20Due%C3%B1as-Ver%20perfil-blue)](https://www.linkedin.com/in/fabian-david-due%C3%B1as-garcia-48418521b/)
 
 ## I'm an enthusiastic learner and technology lover!!
 
