@@ -42,13 +42,11 @@
 
 ### 🖥 Latest Proyects
 
-<!-- BLOG-POST-LIST:START -->
 - [Lunch App - An desktop app in electron to manage the orders of a small restaurant, and generate reports](https://github.com/fabian0896/lunch-app)
 - [Fajas Dashboard - A Dashboard app to mangage and check the production of a factory](https://github.com/fabian0896/pedidos_mayor)
 - [Sevelty App - Application to control the orders of a small company dedicated to the sale of girdles ](https://github.com/fabian0896/svelty-control)
 - [Image Generator - An web app to es create images of products for social networks](https://github.com/fabian0896/image-generator)
 - [Surebet App - App to scan diferent odds of 3 diferents booksmarkets to find the best option for a bet](https://github.com/fabian0896/surebet-app)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more proyects...](https://github.com/fabian0896?tab=repositories)
 
@@ -69,7 +67,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  ---
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fabian0896&show_icons=true&hide_border=true" />
 
 </details>
