@@ -1,21 +1,21 @@
 ### Hi there, I'm Fabian David 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/linkedin/follow/Fabian David Dueñas?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fabian-david-due%C3%B1as-garcia-48418521b/)
 
-## I'm a student and technology lover!!
+## I'm an enthusiastic learner and technology lover!!
 
 - 🔭 I just love Javascript and all web technologies!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and contribute my skills in interesting projects
 - 🥅 2021 Goals: Get an advance level in Node JS and Python.
 - ⚡ Fun fact: I love to play instruments and play soccer in my free time. 
+- ✍ Favorite phrase: never stop learning!
 
 ### Connect with me:
 
-[<img align="left" alt="fabian david | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
-[<img align="left" alt="Fabian David | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Fabian David | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="fabian david | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/fabian.d.garcia.5]
+[<img align="left" alt="Fabian David | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/fabian-david-due%C3%B1as-garcia-48418521b/]
+[<img align="left" alt="Fabian David | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/fabian_duenas96/?hl=es-la]
 
 <br />
 
@@ -39,22 +39,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=vQjDWKy6Pcw)
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
-- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
-- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 ### 🖥 Latest Proyects
 
